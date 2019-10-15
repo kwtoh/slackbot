@@ -1,4 +1,4 @@
 # slackbot
 
 # Steps to running
-# pip install slackbot
+1. pip install slackbot
